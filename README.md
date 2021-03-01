@@ -51,4 +51,4 @@ FinPricing, account, license, capital market, trading system, financial solution
 
 
 You can find more details at
-https://finpricing.com/lib/IrSwap.html
+https://finpricing.com/faq.html
