@@ -50,5 +50,7 @@ FinPricing, account, license, capital market, trading system, financial solution
 
 
 
-You can find more details at
-https://finpricing.com/faq.html
+References:
+
+https://finpricing.com/lib/EqAutocallable.html
+
